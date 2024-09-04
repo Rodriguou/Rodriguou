@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo.;Tenho+22+anos.;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 <br>
+<br>
 <p>🎓 Técnico em Desenvolvimento de Sistemas pela Escola SENAI Suíço-Brasileira.</p>
 <p>📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Sul.</p>
-<br>
-<h3 align="left">🛠️ Languages and Tools:</h3>
+
+<h2 align="left">🛠️ Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
