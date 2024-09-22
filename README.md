@@ -5,7 +5,7 @@
 <p>🎓 Técnico em Desenvolvimento de Sistemas pela Escola SENAI Suíço-Brasileira.</p>
 <p>📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Sul.</p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodriguou&layout=compact&bg_color=00000000&border_color=1f6feb&title_color=1f6feb&text_color=1f6feb)](https://github.com/Rodriguou)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodriguou&layout=compact&bg_color=00000000&border_color=1f6feb&title_color=1f6feb&text_color=f0f6fc)](https://github.com/Rodriguou)
 
 ## 🛠️ Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,git,docker,azure,figma)](https://skillicons.dev)
