@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rodriguou&layout=compact&bg_color=00000000&border_color=1f6feb&title_color=1f6feb&text_color=f0f6fc)](https://github.com/Rodriguou)
 
-## 🛠️ Languages and Tools:
+## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,git,docker,azure,figma)](https://skillicons.dev)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1f6feb&height=120&section=footer"/>
