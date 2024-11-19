@@ -4,6 +4,14 @@
 
 <h2 align="left">Sobre Mim</h2>
 
+<p align="left">
+  🎓 Técnico em Desenvolvimento de Sistemas pela Escola SENAI Suíço-Brasileira<br>
+  📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Sul<br>
+  💻 Focado no desenvolvimento backend, especialmente com Java e Spring<br>
+  🚀 Interessado em DevOps e desenvolvimento frontend<br>
+  📖 Sempre buscando aprender e evoluir como desenvolvedor
+</p>
+
 ###
 
 <h2 align="left">Tecnologias</h2>
@@ -37,7 +45,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
 </div>
 
-<h3 align="left">Ferramentas</h3>
+<h3 align="left">Outras Ferramentas</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij idea logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
@@ -52,11 +60,7 @@
 
 <h2 align="left">Estatísticas</h2>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodriguou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodriguou&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
