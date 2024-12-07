@@ -48,6 +48,7 @@
 <h3 align="left">Outras Ferramentas</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij idea logo" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse ide logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo" />
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo" />
