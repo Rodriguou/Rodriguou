@@ -54,6 +54,7 @@
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
   <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 </div>
 
