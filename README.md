@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo(a) ao meu perfil! :)</h1>
+<h1 align="center">Seja bem-vindo(a) ao meu perfil ☺️</h1>
 
 ###
 
@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle logo" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
   <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn logo" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
 </div>
 
@@ -62,6 +62,6 @@
 <h2 align="left">Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodriguou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodriguou&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodriguou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodriguou&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
