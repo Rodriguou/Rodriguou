@@ -18,44 +18,43 @@
 
 <h3 align="left">Backend</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
 </div>
 
 <h3 align="left">Banco de Dados</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
 </div>
 
 <h3 align="left">DevOps</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure logo" />
 </div>
 
 <h3 align="left">Frontend</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
 </div>
 
 <h3 align="left">Outras Ferramentas</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij idea logo" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipse ide logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven logo" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven logo" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="Gradle logo" />
   <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" />
-  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="Yarn logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
 </div>
 
 ###
