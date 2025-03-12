@@ -32,6 +32,7 @@
 
 <h3 align="left">DevOps</h3>
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure logo" />
